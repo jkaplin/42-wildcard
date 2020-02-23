@@ -14,6 +14,6 @@ https://docs.google.com/spreadsheets/d/16QtqaseChLsXeaY8VedxRpvlGAUW0wfQMz2ksa_i
 
 <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://projects.intra.42.fr/uploads/document/document/1206/Wildcard.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://projects.intra.42.fr/uploads/document/document/1206/Wildcard.pdf">Download PDF</a>.</p>
     </embed>
 </object>
