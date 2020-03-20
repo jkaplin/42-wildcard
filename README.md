@@ -1,5 +1,8 @@
 # 42-wildcard
-A Web Game made with ReactJS
+Building a Gaming Platform like Kongergate
+Using Node.JS,  React.JS, Next.JS
+      Mysql,    Prisma,   Phaser
+      Graphql,  Google Cloud Platform
 
 ## My TimeLog:
 https://docs.google.com/spreadsheets/d/16QtqaseChLsXeaY8VedxRpvlGAUW0wfQMz2ksa_iJxg/edit?usp=sharing
