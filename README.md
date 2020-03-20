@@ -1,8 +1,10 @@
 # 42-wildcard
 Building a Gaming Platform like Kongergate
-Using Node.JS,  React.JS, Next.JS
-      Mysql,    Prisma,   Phaser
-      Graphql,  Google Cloud Platform
+
+## Tech Stack
+Node.JS,  React.JS, Next.JS
+Mysql,    Prisma,   Phaser
+Graphql,  Google Cloud Platform
 
 ## My TimeLog:
 https://docs.google.com/spreadsheets/d/16QtqaseChLsXeaY8VedxRpvlGAUW0wfQMz2ksa_iJxg/edit?usp=sharing
