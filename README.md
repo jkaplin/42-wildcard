@@ -2,9 +2,9 @@
 Building a Gaming Platform like Kongergate
 
 ## Tech Stack
-Node.JS,  React.JS, Next.JS
-Mysql,    Prisma,   Phaser
-Graphql,  Google Cloud Platform
+* Node.JS,  React.JS, Next.JS,
+* Mysql,    Prisma,   Phaser,
+* Graphql,  GCP,
 
 ## My TimeLog:
 https://docs.google.com/spreadsheets/d/16QtqaseChLsXeaY8VedxRpvlGAUW0wfQMz2ksa_iJxg/edit?usp=sharing
