@@ -2,7 +2,7 @@
 Building a Gaming Platform like Kongergate
 
 ## Tech Stack
-Node | React |Next.JS | Mysql | Prisma | Phaser | Graphql | GCP
+Node | React | Next.JS | Mysql | Prisma | Phaser | Graphql | GCP
 
 ## My TimeLog:
 https://docs.google.com/spreadsheets/d/16QtqaseChLsXeaY8VedxRpvlGAUW0wfQMz2ksa_iJxg/edit?usp=sharing
