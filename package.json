@@ -1,0 +1,19 @@
+{
+  "name": "42-wildcard",
+  "version": "1.0.0",
+  "description": "Building a Gaming Platform like Kongergate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkaplin/42-wildcard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkaplin/42-wildcard/issues"
+  },
+  "homepage": "https://github.com/jkaplin/42-wildcard#readme"
+}

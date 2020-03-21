@@ -1,0 +1,24 @@
+const path = require("path");
+const express = require("express");
+const app = express();
+
+// Serve static files from the phaser public folder
+app.use(express.static(path.join(__dirname, "../client/phaser/public")));
+
+app.get("/stars", (req, res) => {
+  res.sendFile(path.join(__dirname, "../client/phaser/public/index.html"));
+});
+
+// Serve static files from the React app
+//app.use(express.static(path.join(__dirname, "../client/build")));
+
+// The "catchall" handler: for any request that doesn't
+// match one above, send back React's index.html file.
+/*
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "../client/phaser/public/index.html"));
+});
+*/
+app.listen(8081, () => {
+  console.log(`Listening on http://localhost:8081`);
+});
